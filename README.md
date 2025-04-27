@@ -1,5 +1,10 @@
 ##
 I created a News Website where you can see daily news of USA . 
+
+#
+Sorry I cant provide live preview cause NewsAPi doesnot let us to show in public Ip only local ip is allowed
+although I provided preview image to see how it works
+
 ##
 I use NEWS API for fetching news
 ##
